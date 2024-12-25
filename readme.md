@@ -36,7 +36,7 @@ SCPC-Challenge/
 
 ---
 
-## 📚 학습 계획
+## 📚 방학 학습 계획
 
 ### 1. **난이도별 문제 풀이**
 | 난이도 | 목표 풀이 수 |
@@ -59,5 +59,6 @@ SCPC-Challenge/
 - **Codeforces**: [https://codeforces.com](https://codeforces.com)
 ---
 
-함께 SCPC를 준비하며 실력을 키워갑시다! 💪
+> 800점 부터 scpc 입문!
+> 결승은 1800점 수준! 파이썬으로 학습 후 C#으로 넘어갈 예정!
 
