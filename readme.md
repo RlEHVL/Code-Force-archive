@@ -14,7 +14,7 @@ SCPC(Samsung Collegiate Programming Cup)를 대비하기 위한 실력 향상 �
 ## ✨ 폴더 구조
 
 ```
-SCPC-Challenge/
+Code-Force-archive/
 ├️ problems/        # 문제 풀이 코드 저장 폴더
 │   └️ 700/      # 700점 문제 풀이 코드
 │   └️ 800/      # 800점 문제 풀이 코드
